@@ -10,15 +10,17 @@
 - Have 3 years of hands-on experience in **Flutter, Dart.**
 - Developed products for **E-comerce, Service based Business,Tech Start-up Businesses**.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems.
+- 📱 Reach Me Through **[WhatsApp](https://wa.me/message/Y762POICMF4SB1)** for faster Response.
 
 #### What I'm doing?
 
 - 🏢 Working at **[RazinSoft](https://razinsoft.com)** as a **Senior Mobile App Developer**.
 - 👨‍💻 Writing `dart` `golang` `HTML` `CSS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/tanvirat0/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Flutter community**.
-- 📚 Currently learning about **clean architecture** & **Bloc Pattern**.
+- 📚 Currently learning about **Bloc Pattern**.
 - 👯 Looking to collaborate on **Flutter And GoLang Project**.
 - 🥰 Building **[Laundary Flutter](https://github.com/ElTanvir/laundary_flutter)** as pet projects.
+- 🤟 Maintaing **[Eltanvir Utils](https://github.com/ElTanvir/eltanvir_util)** as helper package for Flutter Projects.
 
 #### What I like to disscuss about?
 
