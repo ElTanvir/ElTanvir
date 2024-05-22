@@ -14,7 +14,7 @@
 
 #### What I'm doing?
 
-- 🏢 Working at **[Payvill]([https://razinsoft.com](https://www.linkedin.com/company/payvill/)** as a **FrontEnd Team Lead**.
+- 🏢 Working at **[Payvill](https://www.linkedin.com/company/payvill/)** as a **FrontEnd Team Lead**.
 - 👨‍💻 Writing `dart` `golang` `HTML` `CSS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/tanvirat0/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Flutter community**.
 - 📚 Currently learning about **Bloc Pattern**.
